@@ -1,0 +1,75 @@
+query_found_in,stars,name,description
+3,24260,aquasecurity/trivy,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+2,9199,anchore/grype,A vulnerability scanner for container images and filesystems
+1,6462,anchore/syft,CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+1,3738,RetireJS/retire.js,scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
+"1,3",2827,e-m-b-a/emba,EMBA - The firmware security analyzer
+1,2776,DependencyTrack/dependency-track,Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+1,2176,aboutcode-org/scancode-toolkit,":mag: ScanCode detects licenses, copyrights, dependencies by ""scanning code"" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors!"
+1,1798,HummerRisk/HummerRisk,HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。
+1,1671,microsoft/sbom-tool,The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
+1,1641,oss-review-toolkit/ort,A suite of tools to automate software compliance checks.
+3,1578,google/osv.dev,Open source vulnerability DB and triage service.
+1,1449,zarf-dev/zarf,DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
+1,1439,lunasec-io/lunasec,LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTrace GitHub App: https://github.com/marketplace/lunatrace-by-lunasec/ 
+1,1365,openclarity/openclarity,OpenClarity is an open source tool built to enhance security and observability of cloud native applications and infrastructure
+3,1331,aquasecurity/trivy-operator,Kubernetes-native security toolkit
+"1,2",1312,guacsec/guac,GUAC aggregates software security metadata into a high fidelity graph database.
+"1,3",1278,intel/cve-bin-tool,"The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions."
+1,1106,XmirrorSecurity/OpenSCA-cli,"OpenSCA is an open source software supply chain security solution that supports the detection of open source dependencies, vulnerabilities and license compliance with a widely noticed accuracy by the community. "
+"1,2,3",1045,owasp-dep-scan/dep-scan,"OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration."
+2,986,jhorikawa/HoudiniHowtos,Houdini recipe files repository.
+1,971,tern-tools/tern,"Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more. "
+3,968,jonrau1/ElectricEye,"ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & SaaS environments with controls mapped to over 20 industry, regulatory, and best practice controls frameworks"
+3,835,tcosolutions/betterscan,"Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan"
+2,755,kiryha/Houdini,Houdini pipeline and learning database
+3,735,aquasecurity/chain-bench,An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
+2,721,jtomori/vex_tutorial,:bookmark_tabs: A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
+1,716,package-url/purl-spec,"A minimal specification for purl aka. a package ""mostly universal"" URL, join the discussion at https://gitter.im/package-url/Lobby  "
+1,699,bitbomdev/minefield,Graphing SBOM's Fast.
+"1,3",689,rust-secure-code/cargo-auditable,Make production Rust binaries auditable
+1,645,ARPSyndicate/puncia,The Panthera(P.)uncia of Cybersecurity - Official CLI utility for Subdomain Center & Exploit Observer. 
+1,603,CycloneDX/cdxgen,Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-673bfeb4037481919be8a2cd1bf868d2-cdxgen
+"1,3",535,devops-kung-fu/bomber,Scans Software Bill of Materials (SBOMs) for security vulnerabilities
+1,491,awesomeSBOM/awesome-sbom,"A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles"
+1,487,kdeldycke/meta-package-manager,🎁 wraps all package managers with a unifying CLI
+1,471,sandworm-hq/sandworm-audit,Security & License Compliance For Your App's Dependencies 🪱
+1,448,microsoft/component-detection,Scans your project to determine what components you use
+1,424,fsfe/reuse-tool,reuse is a tool for compliance with the REUSE recommendations.
+3,421,in-toto/witness,"Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance."
+1,378,chainloop-dev/chainloop,"Chainloop is an Open Source evidence store for your Software Supply Chain attestations, SBOMs, VEX, SARIF, CSAF files, QA reports, and more."
+"1,2",375,CycloneDX/specification,"OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX"
+1,361,xeol-io/xeol,"A scanner for end-of-life (EOL) software and dependencies in container images, filesystems, and SBOMs"
+3,361,crashappsec/chalk,"Chalk allows you to follow code from development, through builds and into production."
+1,358,kubernetes-sigs/bom,A utility to generate SPDX-compliant Bill of Materials manifests
+1,353,owasp-dep-scan/blint,"BLint is a Binary Linter to check the security properties, and capabilities in your executables. Since v2, blint is also an SBOM generator for binaries."
+1,339,trailofbits/it-depends,A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
+"1,2",321,CycloneDX/cyclonedx-cli,"CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions."
+"1,2",303,CycloneDX/cyclonedx-maven-plugin,Creates CycloneDX Software Bill of Materials (SBOM) from Maven projects
+1,300,bureado/awesome-software-supply-chain-security,"A compilation of resources in the software supply chain security domain, with emphasis on open source"
+1,300,spdx/spdx-spec,The System Package Data Exchange (SPDX) specification in Markdown and HTML formats.
+1,260,CycloneDX/cyclonedx-python,CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+1,197,ckotzbauer/sbom-operator,Catalogue all images of a Kubernetes cluster to multiple targets with Syft
+"1,2",195,CycloneDX/cyclonedx-dotnet,Creates CycloneDX Software Bill of Materials (SBOM) from .NET Projects
+"1,3",192,interlynk-io/sbomqs,SBOM quality score - Quality metrics for your sboms
+"1,2",189,CycloneDX/bom-examples,"A repository with examples of CycloneDX BOMs (SBOM, SaaSBOM, OBOM, VEX, etc)"
+2,169,teared/VEX,Houdini add-on for Sublime Text
+1,165,CycloneDX/cyclonedx-gradle-plugin,Creates CycloneDX Software Bill of Materials (SBOM) from Gradle projects
+2,147,jtomori/vft,:boom::snowflake::hammer: VFX Fractal Toolkit
+1,146,snyk/parlay,Enrich SBOMs with data from third party services
+2,142,LemLib/LemLib,An easy to use and feature-rich PROS template for the Vex V5
+1,141,oracle/macaron,"Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be used to prevent supply chain attacks, detect malicious Python packages, or check conformance to frameworks, such as SLSA. Documentation:"
+2,141,trevorsandy/lpub3d,An LDraw™ editor for LEGO® style digital building instructions.
+1,140,tiiuae/sbomnix,A suite of utilities to help with software supply chain challenges on nix targets
+"1,2",139,CycloneDX/cyclonedx-gomod,Creates CycloneDX Software Bill of Materials (SBOM) from Go modules
+3,134,Azure/dalec,📦 Produce secure packages and containers with declarative configurations
+2,131,CorvaeOboro/zenv,houdini hda tools focused on procedural modeling environments 
+"1,2",130,vishalgarg-sec/Software-Supply-Chain-Security,"A compilation of Software Supply Chain Security resources including initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of learning resources from the web."
+1,125,laoshanxi/app-mesh,"A secure multi-tenant, cloud native, micro-service application management platform"
+1,124,CycloneDX/cyclonedx-node-module,creates CycloneDX Software-Bill-of-Materials (SBOM) from node-based projects
+2,124,openvex/vexctl,"A  tool to create, transform and attest VEX metadata"
+"1,2",110,CycloneDX/cyclonedx-rust-cargo,Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects
+2,108,probiner/DASH,Quality of Life utilities package for SideFX Houdini.
+"1,3",105,OWASP/KubeLight,OWASP Kubernetes security and compliance tool [WIP]
+1,103,mchmarny/s3cme,"Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance"
+1,101,openclarity/vmclarity,VMClarity is a tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and vulnerabilities

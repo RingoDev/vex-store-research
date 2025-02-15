@@ -1,0 +1,4 @@
+cve-scraper/output/
+.idea
+.venv
+*.iml
